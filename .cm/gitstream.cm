@@ -51,7 +51,7 @@ automations:
             This PR is missing a Jira ticket reference in the title or description.
             Please add a Jira ticket reference to the title or description of this PR.
 
-  # Post a comment that lists the best experts for the files that were modified.
+  # Post a comment that lists the best experts for the files that were modifie
   explain_code_experts:
     on:
       - pr_created
